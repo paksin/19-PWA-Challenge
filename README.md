@@ -1,4 +1,4 @@
-# 19-PWA-Challenge
+# JATE Text Editor
 
 ## Deployed Link
 
